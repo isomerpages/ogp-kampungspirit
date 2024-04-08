@@ -1,0 +1,10 @@
+logo: /images/cdc_logo.png
+links:
+  - title: Newroom
+    collection: about
+  - title: Resources
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us
+  - title: CDC Official Site
+    url: https://www.cdc.gov.sg
